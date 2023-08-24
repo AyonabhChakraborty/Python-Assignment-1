@@ -1,2 +1,2 @@
-# Python-Assignment-1
+# Python-Assignment
 This repository would contain programming assignments related to Python
